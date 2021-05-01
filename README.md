@@ -8,4 +8,4 @@ Apache Kafka is a framework implementation of a software bus using stream-proces
   
 ```
 
-### Video Link: To be updated.
+### [Video Link](https://youtu.be/fT20a_dMz_w)
